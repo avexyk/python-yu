@@ -1,2 +1,2 @@
 # python-yu
-Bootcamp de Python
+Bootcamp Python
